@@ -1,8 +1,9 @@
 # Men-s-T-Shirt-Sales-Analysis-Power-BI-
-Short Summary
+**Short Summary**
+
 An interactive Power BI dashboard to analyze sales performance of men’s t-shirts across regions, categories, and time periods.
 
-Tech Stack
+**Tech Stack**
 
 Power BI Desktop
 
@@ -10,11 +11,11 @@ DAX (Data Analysis Expressions)
 
 Data Modeling & Visualization
 
-Data Source
+**Data Source**
 
 Sales dataset containing product details, sales transactions, revenue, and regional data.
 
-Features / Highlights
+**Features / Highlights**
 
 Visualized revenue trends, product performance, and regional sales distribution.
 
